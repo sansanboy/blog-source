@@ -1,7 +1,6 @@
 ---
 title: gitlab持续集成步骤
 date: 2019-05-29 23:56:54
-tags:
 ---
 公司有持续集成的系统，步骤为：
 1. gitlab打tag
